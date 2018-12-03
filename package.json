@@ -1,11 +1,8 @@
+
 {
   "name": "riot-express-todo-list",
-  "version": "5.0.0",
-  "description": "A boilerplate for Node.js web applications",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sahat/riot-express-todo-list.git"
-  },
+  "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "exit 0",
@@ -26,3 +23,4 @@
   "homepage": "https://github.com/sahat/riot-express-todo-list#readme",
   "devDependencies": {}
 }
+
